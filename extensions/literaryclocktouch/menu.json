@@ -1,9 +1,9 @@
 {
-    "items": [
-        {
-            "name": "Start/Stop Literary Clock",
-            "priority": 1,
-            "action": "bin/toggle.sh"
-        }
-    ]
+  "items": [
+    {
+      "name": "Start/Stop Literary Clock",
+      "priority": 1,
+      "action": "/bin/sh /mnt/us/timelit/startstopClock.sh"
+    }
+  ]
 }
