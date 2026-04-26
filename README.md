@@ -1,4 +1,10 @@
 # literaryclock
+
+Adapting elegentalchemist's [literaryclock](https://github.com/elegantalchemist/literaryclock) project for K5 Kindle Touch. 
+
+
+
+----
 Repurposing a Kindle into a clock which tells time entirely through real book quotes. A fascinating conversation piece as well as a beautiful and functional clock.
 
 Non-destructive, the clock can be exited and the Kindle used as normal at any point.
