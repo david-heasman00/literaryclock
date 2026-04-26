@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension>
+    <information>
+        <name>Literary Clock Touch</name>
+        <version>1.0</version>
+        <author>The Heasman</author>
+        <id>literaryclocktouch</id>
+    </information>
+    <menus>
+        <menu type="app" id="literaryclocktouch_menu">
+            <name>Literary Clock Touch</name>
+            <items>
+                <item>
+                    <name>Start/Stop Literary Clock Touch</name>
+                    <action>/bin/toggle.sh</action>
+                </item>
+            </items>
+        </menu>
+    </menus>
+</extension>

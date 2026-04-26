@@ -1,0 +1,9 @@
+{
+    "items": [
+        {
+            "name": "Start/Stop Literary Clock",
+            "priority": 1,
+            "action": "bin/toggle.sh"
+        }
+    ]
+}
