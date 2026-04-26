@@ -2,7 +2,9 @@
 
 Adapting elegentalchemist's [literaryclock](https://github.com/elegantalchemist/literaryclock) project for K5 Kindle Touch. 
 
-
+Requirements beforehand so far:
+ - Download USBNetwork for K5 from https://www.mobileread.com/forums/showthread.php?t=225030
+ - Download Python as well from https://www.mobileread.com/forums/showthread.php?t=225030
 
 ----
 Repurposing a Kindle into a clock which tells time entirely through real book quotes. A fascinating conversation piece as well as a beautiful and functional clock.
